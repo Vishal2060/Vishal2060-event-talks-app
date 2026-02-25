@@ -1,0 +1,8 @@
+# Generated files
+index.html
+
+# Node.js dependencies
+node_modules/
+
+# Gemini CLI specific files
+.gemini/
